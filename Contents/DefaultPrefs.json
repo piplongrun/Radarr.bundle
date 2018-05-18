@@ -1,0 +1,14 @@
+[
+	{
+		"id": "radarr_url",
+		"label": "Radarr URL",
+		"type": "text",
+		"default": "http://localhost:7878"
+	},
+	{
+		"id": "radarr_api_key",
+		"label": "Radarr API Key",
+		"type": "text",
+		"default": ""
+	}
+]
